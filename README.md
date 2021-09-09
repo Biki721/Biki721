@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Biki Dey
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently doing Internship in PantechSolutions
+- 👀Graduated from Regional Institute of Science and Technology,Meghalaya in the field of CSE
+- 🌱 Aspiring Data Scientist
 - 📫 How to reach me? Here is my email ID
   email - deybiki721@gmal.com
 
