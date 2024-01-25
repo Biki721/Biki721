@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Biki Dey
 - 👀Graduated from Regional Institute of Science and Technology,Meghalaya in the field of CSE
-- 🌱 Aspiring Data Scientist
+- 🌱 Automation Developer
 - 📫 How to reach me? Here is my email ID
   email - deybiki721@gmal.com
 
